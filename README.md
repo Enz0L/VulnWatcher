@@ -10,5 +10,5 @@ Modify the array with your CPEs
 Few libs:
 requests, json, datetime, keyring, docxtpl, os, re
 
-# Features  to inprove 
+# Features  to improve 
 Replace the Array with an external file: CSV,JSON?
